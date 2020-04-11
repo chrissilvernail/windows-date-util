@@ -1,0 +1,15 @@
+C:\Users\chris\source\repos\chrissilvernail\windows-date-util\WindowsDateUtilGUI\bin\Debug\WindowsDateUtilGUI.exe.config
+C:\Users\chris\source\repos\chrissilvernail\windows-date-util\WindowsDateUtilGUI\bin\Debug\WindowsDateUtilGUI.exe
+C:\Users\chris\source\repos\chrissilvernail\windows-date-util\WindowsDateUtilGUI\bin\Debug\WindowsDateUtilGUI.pdb
+C:\Users\chris\source\repos\chrissilvernail\windows-date-util\WindowsDateUtilGUI\obj\Debug\WindowsDateUtilGUI.csprojAssemblyReference.cache
+C:\Users\chris\source\repos\chrissilvernail\windows-date-util\WindowsDateUtilGUI\obj\Debug\MainWindow.g.cs
+C:\Users\chris\source\repos\chrissilvernail\windows-date-util\WindowsDateUtilGUI\obj\Debug\App.g.cs
+C:\Users\chris\source\repos\chrissilvernail\windows-date-util\WindowsDateUtilGUI\obj\Debug\WindowsDateUtilGUI_MarkupCompile.cache
+C:\Users\chris\source\repos\chrissilvernail\windows-date-util\WindowsDateUtilGUI\obj\Debug\WindowsDateUtilGUI_MarkupCompile.lref
+C:\Users\chris\source\repos\chrissilvernail\windows-date-util\WindowsDateUtilGUI\obj\Debug\MainWindow.baml
+C:\Users\chris\source\repos\chrissilvernail\windows-date-util\WindowsDateUtilGUI\obj\Debug\WindowsDateUtilGUI.g.resources
+C:\Users\chris\source\repos\chrissilvernail\windows-date-util\WindowsDateUtilGUI\obj\Debug\WindowsDateUtilGUI.Properties.Resources.resources
+C:\Users\chris\source\repos\chrissilvernail\windows-date-util\WindowsDateUtilGUI\obj\Debug\WindowsDateUtilGUI.csproj.GenerateResource.cache
+C:\Users\chris\source\repos\chrissilvernail\windows-date-util\WindowsDateUtilGUI\obj\Debug\WindowsDateUtilGUI.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\chrissilvernail\windows-date-util\WindowsDateUtilGUI\obj\Debug\WindowsDateUtilGUI.exe
+C:\Users\chris\source\repos\chrissilvernail\windows-date-util\WindowsDateUtilGUI\obj\Debug\WindowsDateUtilGUI.pdb
